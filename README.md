@@ -1,3 +1,6 @@
+Challenge to integrate pixi.js with react and hooks as I was unable to find any informations searching the net. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
