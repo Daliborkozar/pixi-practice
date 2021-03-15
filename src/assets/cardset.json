@@ -1,0 +1,20 @@
+{"frames": {
+
+"cardsset.png":
+{
+	"frame": {"x":0,"y":0,"w":927,"h":966},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":927,"h":966},
+	"sourceSize": {"w":927,"h":966}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cardset.png",
+	"format": "RGBA8888",
+	"size": {"w":927,"h":966},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4f1ff8e67ce2574b1b3e5c8351a13118:140e3fb2ce1bc4663ab6bac9975d1df7:b447bbb6cffef7469ec14f42ad033451$"
+}
+}
